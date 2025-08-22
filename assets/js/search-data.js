@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-cmu-courses",
-          title: "cmu courses",
-          description: "reviews of each of my nine semesters at carnegie mellon university.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/courses/";
-          },
         },{id: "post-a-subset-of-database-systems-and-why-they-39-re-interesting-part-1",
         
           title: "A Subset of Database Systems (and Why They&#39;re Interesting), Part 1",
