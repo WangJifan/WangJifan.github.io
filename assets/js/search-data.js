@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
         },{id: "nav-cmu-courses",
           title: "cmu courses",
           description: "reviews of each of my nine semesters at carnegie mellon university.",
