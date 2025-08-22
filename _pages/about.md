@@ -27,7 +27,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student in the [Computer Sciences Department](https://www.cs.wisc.edu/) at the [University of Wisconsin–Madison](https://www.wisc.edu/). I am advised by [Dr. Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/), and am a member of the [UW–Madison Databases Group](https://database.cs.wisc.edu/). Previously, I was a Software Engineer at [TileDB](https://tiledb.com/), working on their [open-source data engine](https://github.com/TileDB-Inc/TileDB). I completed my B.Sc. and M.Sc. at
-[Carnegie Mellon's School of Computer Science](https://csd.cmu.edu/), where I was advised by [Dr. Andy Pavlo](http://www.cs.cmu.edu/~pavlo/). My academic interests are database management systems and computer science education.
+I am a fifth-year Ph.D. candidate in Econometrics and Quantitative Economics at Georgetown University, specializing in **macro-finance, financial economics, causal inference, and machine learning**. My research centers on the intersection of **firm dynamics, financial intermediation, and quantitative methods for policy analysis**, with expertise in both **empirical approaches** and **structural modeling**.
 
-In my free time, I enjoy listening to [Taylor Swift](https://twitter.com/abigale_kim/status/1645590351166722050) and fiber crafting. Feel free to reach out abigalekim0417[at]gmail[dot]com or abigale[at]cs[dot]wisc[dot]edu. I'm happy to chat and connect!
+Over the course of my academic experience, I have studied topics including **shadow banking, financial inclusion, real estate economics, RMB exchange rate reform, and bank stability**. Methodologically, I have extensive experience with:
+
+- **Econometrics & Causal Inference**: IV-GMM, panel data models, synthetic DiD, synthetic control, regression discontinuity, double machine learning, propensity score matching, and local projections.
+
+- **Machine Learning & Data Science**: XGBoost, LightGBM, CatBoost, random forests, NLP/LLMs (BERT), and online experimentation (A/B testing).
+
+- **Time Series Analysis**: ARIMA, VAR, VECM, Kalman filter, Bayesian time-series methods.
+
+- **Structural Modeling**: DSGE models, BLP demand estimation, and related quantitative frameworks.
+
+I have gained professional experience across both academia and industry, working on research questions at the intersection of economics, finance, and policy. During 2025 Summer, I served as an **Economist Intern at Amazon on the Causal Inference Track**, where I developed and validated a synthetic control framework with surrogate modeling and Bayesian Directional synthetic control to evaluate the long-term causal effects of fee policy changes. Before this, I worked as a **Short-Term Consultant at the World Bank**, where I applied econometric and statistical methods to study productivity dynamics and technology adoption across Southeast Asian economies, providing evidence-based insights for policy evaluation.
+
+Earlier in my research career, I participated in several academic research projects in China, including those funded by the **National Natural Science Foundation** and the **National Social Science Foundation**, focusing on **RMB exchange rate reform** and **local fiscal issues**. I also contributed to a **joint Ministry of Finance–World Bank project** evaluating the performance of technical assistance programs. **At Georgetown University**, I worked as a **Research Analyst at the Lab for Globalization and Shared Prosperity**, where I examined how China trade shocks influenced U.S. local labor markets and firm dynamics. I also collaborated with **Prof. Mukoyama** and **Prof. Cao** on projects related to firm dynamics and productivity, and served as a teaching assistant for courses in International Finance, **International Economics, Game Theory, and Empirical Macroeconomics(DSGE and time series)**. These experiences have provided me with both **applied research expertise** and a **broad perspective**.
+
+I am passionate about applying rigorous **econometrics, causal inference, forecasting, and machine learning** to analyze economic dynamics and inform both policy and business decisions. I also have strong experience and interest in developing econometric models into Python packages and building structural frameworks, enabling me to bridge empirical analysis with theoretical modeling.
