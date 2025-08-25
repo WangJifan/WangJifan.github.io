@@ -12,7 +12,7 @@ nav_order: 2
 - Game Theory (400-level), Fall 2022
 - International Finance (400-level), Spring 2023, Spring 2024, Fall 2024, Fall 2025
 - Empirical Macroeconomics (graduate-level), Fall 2023, Focus on DSGE and Time Series Methods
-- International Economics (400-level), Spring 2025
+- International Trade (400-level), Spring 2025
 
 ### Part-time Lecturer (before 2021)
 
