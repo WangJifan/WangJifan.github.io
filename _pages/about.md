@@ -26,7 +26,7 @@ latest_posts:
 
 I am a fifth-year Ph.D. candidate in Econometrics and Quantitative Economics at Georgetown University, specializing in **financial economics, causal inference, and machine learning**. My research centers on the intersection of **firm dynamics, financial intermediation, and quantitative methods for policy analysis**, with expertise in both **empirical approaches** and **structural modeling**.
 
-Over the course of my academic experience, I have studied topics including **shadow banking, financial inclusion, real estate economics, RMB exchange rate reform, and bank stability**. Methodologically, I have extensive experience with:
+Over the course of my academic experience, I have studied topics including **shadow banking, financial inclusion, real estate economics, and bank stability**. Methodologically, I have extensive experience with:
 
 - **Econometrics & Causal Inference**: IV-GMM, panel data models, synthetic DiD, synthetic control, regression discontinuity, double machine learning, propensity score matching, and local projections.
 
